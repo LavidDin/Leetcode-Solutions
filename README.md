@@ -6,10 +6,6 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-
-[comment]: <> (||[]()| [Ruby](./), [Go](./)|Easy|)
-
-
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [MySQL](./solutions/mysql/177.sql), [Go](./solutions/mysql/177.sql)|Medium|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)| [MySQL](./solutions/mysql/180.sql), [Go](./solutions/mysql/180.sql)|Medium|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [MySQL](./solutions/mysql/196.sql), [Go](./solutions/mysql/196.sql)|Easy|
