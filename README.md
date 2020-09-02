@@ -6,6 +6,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|476|[Number Complement](https://leetcode.com/problems/number-complement/)| [Ruby](./solutions/ruby/476.ruby) |Easy|
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Ruby](./solutions/ruby/1299.ruby) |Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [MySQL](./solutions/mysql/177.sql) |Medium|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)| [MySQL](./solutions/mysql/180.sql) |Medium|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [MySQL](./solutions/mysql/196.sql) |Easy|
