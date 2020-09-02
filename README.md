@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)| [Ruby](./solutions/ruby/1491.ruby) |Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)| [Ruby](./solutions/ruby/476.ruby) |Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Ruby](./solutions/ruby/1299.ruby) |Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [MySQL](./solutions/mysql/177.sql) |Medium|
