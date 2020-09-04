@@ -3,9 +3,11 @@ LeetCode
 
 ### LeetCode Solutions
 
-
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)| [Ruby](./solutions/ruby/1009.rb) |Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Ruby](./solutions/ruby/771.rb) |Easy|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Ruby](./solutions/ruby/1342.rb) |Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Ruby](./solutions/ruby/13.rb) |Easy|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)| [Ruby](./solutions/ruby/1491.rb) |Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)| [Ruby](./solutions/ruby/476.rb) |Easy|
