@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)| [Ruby](./solutions/ruby/1534.rb) |Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)| [Ruby](./solutions/ruby/1009.rb) |Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Ruby](./solutions/ruby/771.rb) |Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Ruby](./solutions/ruby/1342.rb) |Easy|
