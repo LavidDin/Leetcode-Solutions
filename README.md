@@ -5,6 +5,9 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [MySQL](./solutions/mysql/181.sql) |Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [Ruby](./solutions/ruby/58.rb) |Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Ruby](./solutions/ruby/7.rb) |Easy|
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)| [Ruby](./solutions/ruby/1534.rb) |Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)| [Ruby](./solutions/ruby/1009.rb) |Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Ruby](./solutions/ruby/771.rb) |Easy|
