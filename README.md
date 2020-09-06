@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Ruby](./solutions/ruby/26.rb) |Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [MySQL](./solutions/mysql/181.sql) |Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [Ruby](./solutions/ruby/58.rb) |Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Ruby](./solutions/ruby/7.rb) |Easy|
