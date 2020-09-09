@@ -5,6 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [Ruby](./solutions/ruby/168.rb) |Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Ruby](./solutions/ruby/258.rb) |Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Ruby](./solutions/ruby/121.rb) |Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Ruby](./solutions/ruby/26.rb) |Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [MySQL](./solutions/mysql/181.sql) |Easy|
