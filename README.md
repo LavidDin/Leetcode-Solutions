@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Ruby](./solutions/ruby/283.rb) |Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [Ruby](./solutions/ruby/168.rb) |Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Ruby](./solutions/ruby/258.rb) |Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Ruby](./solutions/ruby/121.rb) |Easy|
