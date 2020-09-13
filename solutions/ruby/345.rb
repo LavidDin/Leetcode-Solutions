@@ -1,0 +1,7 @@
+#345. Reverse Vowels of a String
+# @param {String} s
+# @return {String}
+def reverse_vowels(s)
+  vowels = s.scan(/[aeiou]/i)
+  s.gsub(/[aeiou]/i) { vowels.pop }
+end

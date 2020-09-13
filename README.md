@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [Ruby](./solutions/ruby/345.rb) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Ruby](./solutions/ruby/283.rb) |Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [Ruby](./solutions/ruby/168.rb) |Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Ruby](./solutions/ruby/258.rb) |Easy|
