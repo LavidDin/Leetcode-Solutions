@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Ruby](./solutions/mysql/1179.sql) |Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [Ruby](./solutions/ruby/1137.rb) |Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Ruby](./solutions/ruby/1089.rb) |Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [Ruby](./solutions/ruby/345.rb) |Easy|
