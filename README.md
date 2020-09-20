@@ -5,8 +5,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [Ruby](./solutions/ruby/344.rb) |Easy|
+|1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)| [Ruby](./solutions/ruby/1550.rb) |Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)| [Ruby](./solutions/ruby/1103.rb) |Easy|
-|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Ruby](./solutions/mysql/1179.sql) |Easy|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [MySQL](./solutions/mysql/1179.sql) |Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [Ruby](./solutions/ruby/1137.rb) |Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Ruby](./solutions/ruby/1089.rb) |Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [Ruby](./solutions/ruby/345.rb) |Easy|
