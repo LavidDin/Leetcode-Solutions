@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| [Ruby](./solutions/ruby/1002.rb) |Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Ruby](./solutions/ruby/509.rb) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [Ruby](./solutions/ruby/344.rb) |Easy|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)| [Ruby](./solutions/ruby/1550.rb) |Easy|
