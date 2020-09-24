@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [MySQL](./solutions/mysql/620.sql) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Ruby](./solutions/ruby/27.rb) |Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| [Ruby](./solutions/ruby/1002.rb) |Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Ruby](./solutions/ruby/509.rb) |Easy|
