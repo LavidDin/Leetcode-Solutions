@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/)| [MySQL](./solutions/mysql/627.sql) |Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [MySQL](./solutions/mysql/620.sql) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Ruby](./solutions/ruby/27.rb) |Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| [Ruby](./solutions/ruby/1002.rb) |Easy|
