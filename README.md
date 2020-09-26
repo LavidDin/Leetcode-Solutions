@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)| [Ruby](./solutions/ruby/821.rb) |Easy|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)| [Ruby](./solutions/ruby/1450.rb) |Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)| [MySQL](./solutions/mysql/627.sql) |Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [MySQL](./solutions/mysql/620.sql) |Easy|
