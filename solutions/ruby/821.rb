@@ -1,3 +1,4 @@
+#821. Shortest Distance to a Character
 # @param {String} s
 # @param {Character} c
 # @return {Integer[]}
