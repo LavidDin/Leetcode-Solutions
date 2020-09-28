@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [Ruby](./solutions/ruby/1380.rb) |Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)| [Ruby](./solutions/ruby/1051.rb) |Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)| [Ruby](./solutions/ruby/821.rb) |Easy|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)| [Ruby](./solutions/ruby/1450.rb) |Easy|
