@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)| [Ruby](./solutions/ruby/1572.rb) |Easy|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [Ruby](./solutions/ruby/1380.rb) |Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)| [Ruby](./solutions/ruby/1051.rb) |Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)| [Ruby](./solutions/ruby/821.rb) |Easy|
