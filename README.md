@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Ruby](./solutions/ruby/852.rb) |Easy|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)| [Ruby](./solutions/ruby/1572.rb) |Easy|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [Ruby](./solutions/ruby/1380.rb) |Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)| [Ruby](./solutions/ruby/1051.rb) |Easy|
