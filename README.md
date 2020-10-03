@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [Ruby](./solutions/ruby/832.rb) |Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [Ruby](./solutions/ruby/728.rb) |Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Ruby](./solutions/ruby/700.rb) |Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Ruby](./solutions/ruby/852.rb) |Easy|
