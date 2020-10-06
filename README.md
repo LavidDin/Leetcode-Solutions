@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)| [Ruby](./solutions/ruby/1528.rb) |Easy|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)| [Ruby](./solutions/ruby/1436.rb) |Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [Ruby](./solutions/ruby/832.rb) |Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [Ruby](./solutions/ruby/728.rb) |Easy|
