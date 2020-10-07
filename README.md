@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [Ruby](./solutions/ruby/1486.rb) |Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)| [Ruby](./solutions/ruby/1528.rb) |Easy|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)| [Ruby](./solutions/ruby/1436.rb) |Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [Ruby](./solutions/ruby/832.rb) |Easy|
