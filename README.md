@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)| [Ruby](./solutions/ruby/1603.rb) |Easy|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [Ruby](./solutions/ruby/1486.rb) |Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)| [Ruby](./solutions/ruby/1528.rb) |Easy|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)| [Ruby](./solutions/ruby/1436.rb) |Easy|
