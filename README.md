@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [Ruby](./solutions/ruby/495.rb) |Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| [Ruby](./solutions/ruby/1266.rb) |Easy|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| [Ruby](./solutions/ruby/1290.rb) |Easy|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)| [Ruby](./solutions/ruby/1603.rb) |Easy|
