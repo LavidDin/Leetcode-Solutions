@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| [Ruby](./solutions/ruby/1614.rb) |Easy|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [Ruby](./solutions/ruby/495.rb) |Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| [Ruby](./solutions/ruby/1266.rb) |Easy|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| [Ruby](./solutions/ruby/1290.rb) |Easy|
