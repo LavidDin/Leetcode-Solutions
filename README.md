@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)| [Ruby](./solutions/ruby/1323.rb) |Easy|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| [Ruby](./solutions/ruby/1614.rb) |Easy|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [Ruby](./solutions/ruby/495.rb) |Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| [Ruby](./solutions/ruby/1266.rb) |Easy|
