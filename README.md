@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| [Ruby](./solutions/ruby/1252.rb) |Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)| [Ruby](./solutions/ruby/1323.rb) |Easy|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| [Ruby](./solutions/ruby/1614.rb) |Easy|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [Ruby](./solutions/ruby/495.rb) |Medium|
