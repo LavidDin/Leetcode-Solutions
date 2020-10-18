@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)| [Ruby](./solutions/ruby/917.rb) |Easy|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| [Ruby](./solutions/ruby/1446.rb) |Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)| [Ruby](./solutions/ruby/748.rb) |Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)| [Ruby](./solutions/ruby/682.rb) |Easy|
