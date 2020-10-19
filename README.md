@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)| [Ruby](./solutions/ruby/1556.rb) |Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)| [Ruby](./solutions/ruby/917.rb) |Easy|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| [Ruby](./solutions/ruby/1446.rb) |Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)| [Ruby](./solutions/ruby/748.rb) |Easy|
