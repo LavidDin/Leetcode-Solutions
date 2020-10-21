@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)| [Ruby](./solutions/ruby/575.rb) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Ruby](./solutions/ruby/169.rb) |Easy|
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)| [Ruby](./solutions/ruby/1556.rb) |Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)| [Ruby](./solutions/ruby/917.rb) |Easy|
