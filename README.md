@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1507|[Reformat Date](https://leetcode.com/problems/reformat-date/)| [Ruby](./solutions/ruby/1507.rb) |Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Ruby](./solutions/ruby/412.rb) |Easy|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)| [Ruby](./solutions/ruby/575.rb) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Ruby](./solutions/ruby/169.rb) |Easy|
