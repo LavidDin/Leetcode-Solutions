@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)| [Ruby](./solutions/ruby/1518.rb) |Easy|
 |1507|[Reformat Date](https://leetcode.com/problems/reformat-date/)| [Ruby](./solutions/ruby/1507.rb) |Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Ruby](./solutions/ruby/412.rb) |Easy|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)| [Ruby](./solutions/ruby/575.rb) |Easy|
