@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [Ruby](./solutions/ruby/500.rb) |Easy|
 |1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)| [Ruby](./solutions/ruby/1399.rb) |Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Ruby](./solutions/ruby/1046.rb) |Easy|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [Ruby](./solutions/ruby/1189.rb) |Easy|
