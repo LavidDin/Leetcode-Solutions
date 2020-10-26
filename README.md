@@ -5,7 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)| [Ruby](./solutions/ruby/1309.rb.rb) |Easy|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Ruby](./solutions/ruby/657.rb) |Easy|
+|1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)| [Ruby](./solutions/ruby/1309.rb) |Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [Ruby](./solutions/ruby/500.rb) |Easy|
 |1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)| [Ruby](./solutions/ruby/1399.rb) |Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Ruby](./solutions/ruby/1046.rb) |Easy|
