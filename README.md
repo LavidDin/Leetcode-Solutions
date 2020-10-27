@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| [Ruby](./solutions/ruby/1021.rb) |Easy|
 |1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| [Ruby](./solutions/ruby/1588.rb) |Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Ruby](./solutions/ruby/657.rb) |Easy|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)| [Ruby](./solutions/ruby/1309.rb) |Easy|
