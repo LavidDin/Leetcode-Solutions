@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| [Ruby](./solutions/ruby/1460.rb) |Easy|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| [Ruby](./solutions/ruby/1021.rb) |Easy|
 |1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| [Ruby](./solutions/ruby/1588.rb) |Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Ruby](./solutions/ruby/657.rb) |Easy|
