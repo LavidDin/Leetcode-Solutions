@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/)| [Ruby](./solutions/ruby/942.rb) |Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Ruby](./solutions/ruby/461.rb) |Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| [Ruby](./solutions/ruby/1460.rb) |Easy|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| [Ruby](./solutions/ruby/1021.rb) |Easy|
