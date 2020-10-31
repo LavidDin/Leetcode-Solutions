@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [Ruby](./solutions/ruby/1464.rb) |Easy|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)| [Ruby](./solutions/ruby/1475.rb) |Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Ruby](./solutions/ruby/961.rb) |Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)| [Ruby](./solutions/ruby/942.rb) |Easy|
