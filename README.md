@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Ruby](./solutions/ruby/1304.rb) |Easy|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)| [Ruby](./solutions/ruby/1370.rb) |Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [Ruby](./solutions/ruby/1464.rb) |Easy|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)| [Ruby](./solutions/ruby/1475.rb) |Easy|
