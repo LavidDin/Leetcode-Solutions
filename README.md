@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Ruby](./solutions/ruby/1351.rb) |Easy|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)| [Ruby](./solutions/ruby/859.rb) |Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)| [Ruby](./solutions/ruby/204.rb) |Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)| [Ruby](./solutions/ruby/665.rb) |Easy|
