@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)| [Ruby](./solutions/ruby/204.rb) |Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)| [Ruby](./solutions/ruby/665.rb) |Easy|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)| [Ruby](./solutions/ruby/1374.rb) |Easy|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Ruby](./solutions/ruby/1304.rb) |Easy|
