@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin/)| [Ruby](./solutions/ruby/824.rb) |Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Ruby](./solutions/ruby/905.rb) |Easy|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Ruby](./solutions/ruby/1351.rb) |Easy|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)| [Ruby](./solutions/ruby/859.rb) |Easy|
