@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Ruby](./solutions/ruby/977.rb) |Easy|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)| [Ruby](./solutions/ruby/1200.rb) |Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)| [Ruby](./solutions/ruby/824.rb) |Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Ruby](./solutions/ruby/905.rb) |Easy|
