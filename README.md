@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| [Ruby](./solutions/ruby/496.rb) |Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)| [Ruby](./solutions/ruby/1185.rb) |Easy|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)| [Ruby](./solutions/ruby/1394.rb) |Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)| [Ruby](./solutions/ruby/922.rb) |Easy|
