@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)| [Ruby](./solutions/ruby/1217.rb) |Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| [Ruby](./solutions/ruby/496.rb) |Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)| [Ruby](./solutions/ruby/1185.rb) |Easy|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)| [Ruby](./solutions/ruby/1394.rb) |Easy|
