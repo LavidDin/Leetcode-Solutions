@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)| [Ruby](./solutions/ruby/1502.rb) |Easy|
 |1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)| [Ruby](./solutions/ruby/1217.rb) |Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| [Ruby](./solutions/ruby/496.rb) |Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)| [Ruby](./solutions/ruby/1185.rb) |Easy|
