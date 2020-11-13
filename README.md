@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)| [Ruby](./solutions/ruby/766.rb) |Easy|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)| [Ruby](./solutions/ruby/1629.rb) |Easy|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Ruby](./solutions/ruby/1025.rb) |Easy|
 |1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)| [Ruby](./solutions/ruby/1502.rb) |Easy|
