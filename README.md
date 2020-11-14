@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)| [Ruby](./solutions/ruby/1640.rb) |Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)| [Ruby](./solutions/ruby/766.rb) |Easy|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)| [Ruby](./solutions/ruby/1629.rb) |Easy|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Ruby](./solutions/ruby/1025.rb) |Easy|
