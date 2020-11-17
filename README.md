@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)| [Ruby](./solutions/ruby/112.rb) |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Ruby](./solutions/ruby/69.rb) |Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Ruby](./solutions/ruby/125.rb) |Easy|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)| [Ruby](./solutions/ruby/1640.rb) |Easy|
