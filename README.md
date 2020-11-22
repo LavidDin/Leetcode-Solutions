@@ -5,7 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|197|[Most Common Word](https://leetcode.com/problems/most-common-word/)| [Ruby](./solutions/mysql/197.sql.rb) |Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)| [Ruby](./solutions/ruby/198.rb) |Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [Ruby](./solutions/mysql/197.sql) |Easy|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)| [Ruby](./solutions/ruby/819.rb) |Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [Ruby](./solutions/ruby/112.rb) |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Ruby](./solutions/ruby/69.rb) |Easy|
