@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)| [Ruby](./solutions/ruby/914.rb) |Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Ruby](./solutions/ruby/198.rb) |Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [Ruby](./solutions/mysql/197.sql) |Easy|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)| [Ruby](./solutions/ruby/819.rb) |Easy|
