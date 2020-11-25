@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)| [Ruby](./solutions/ruby/645.rb) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Ruby](./solutions/ruby/66.rb) |Easy|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)| [Ruby](./solutions/ruby/914.rb) |Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Ruby](./solutions/ruby/198.rb) |Easy|
