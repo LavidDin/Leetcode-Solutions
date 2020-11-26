@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Ruby](./solutions/ruby/70.rb) |Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)| [Ruby](./solutions/ruby/645.rb) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Ruby](./solutions/ruby/66.rb) |Easy|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)| [Ruby](./solutions/ruby/914.rb) |Easy|
