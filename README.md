@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Ruby](./solutions/ruby/231.rb) |Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Ruby](./solutions/ruby/70.rb) |Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)| [Ruby](./solutions/ruby/645.rb) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Ruby](./solutions/ruby/66.rb) |Easy|
