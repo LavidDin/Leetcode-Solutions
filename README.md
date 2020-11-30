@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)| [Ruby](./solutions/ruby/788.rb) |Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)| [Ruby](./solutions/ruby/796.rb) |Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Ruby](./solutions/ruby/205.rb) |Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Ruby](./solutions/ruby/231.rb) |Easy|
