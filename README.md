@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)| [Ruby](./solutions/ruby/409.rb) |Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)| [Ruby](./solutions/ruby/1672.rb) |Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)| [Ruby](./solutions/ruby/788.rb) |Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)| [Ruby](./solutions/ruby/796.rb) |Easy|
