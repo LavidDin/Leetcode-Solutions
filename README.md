@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)| [Ruby](./solutions/ruby/697.rb) |Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)| [Ruby](./solutions/ruby/409.rb) |Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)| [Ruby](./solutions/ruby/1672.rb) |Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)| [Ruby](./solutions/ruby/788.rb) |Easy|
