@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)| [Ruby](./solutions/ruby/520.rb) |Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)| [Ruby](./solutions/ruby/697.rb) |Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)| [Ruby](./solutions/ruby/409.rb) |Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)| [Ruby](./solutions/ruby/1672.rb) |Easy|
