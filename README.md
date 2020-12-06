@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)| [Ruby](./solutions/ruby/1207.rb) |Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Ruby](./solutions/ruby/217.rb) |Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)| [Ruby](./solutions/ruby/520.rb) |Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)| [Ruby](./solutions/ruby/697.rb) |Easy|
