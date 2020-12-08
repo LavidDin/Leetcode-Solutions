@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)| [Ruby](./solutions/ruby/970.rb) |Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [Ruby](./solutions/ruby/557.rb) |Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)| [Ruby](./solutions/ruby/1207.rb) |Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Ruby](./solutions/ruby/217.rb) |Easy|
