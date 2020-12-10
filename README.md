@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Ruby](./solutions/ruby/367.rb) |Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)| [Ruby](./solutions/ruby/441.rb) |Easy|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)| [Ruby](./solutions/ruby/970.rb) |Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [Ruby](./solutions/ruby/557.rb) |Easy|
