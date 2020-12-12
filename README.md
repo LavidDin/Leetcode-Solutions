@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|643|[Maximum Average Subarray I ⭐](https://leetcode.com/problems/maximum-average-subarray-i/)| [Ruby](./solutions/ruby/643.rb) |Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [Ruby](./solutions/ruby/290.rb) |Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Ruby](./solutions/ruby/367.rb) |Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)| [Ruby](./solutions/ruby/441.rb) |Easy|
