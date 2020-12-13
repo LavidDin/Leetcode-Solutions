@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)| [Ruby](./solutions/ruby/1678.rb) |Easy|
 |643|[Maximum Average Subarray I ⭐](https://leetcode.com/problems/maximum-average-subarray-i/)| [Ruby](./solutions/ruby/643.rb) |Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [Ruby](./solutions/ruby/290.rb) |Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Ruby](./solutions/ruby/367.rb) |Easy|
