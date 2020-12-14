@@ -16,3 +16,5 @@ def number_of_matches(n)
 
   match_count
 end
+
+# or return n-1
