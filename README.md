@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./solutions/shell/195.sh) |Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)| [Ruby](./solutions/ruby/1688.rb) |Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)| [Ruby](./solutions/ruby/1678.rb) |Easy|
 |643|[Maximum Average Subarray I ⭐](https://leetcode.com/problems/maximum-average-subarray-i/)| [Ruby](./solutions/ruby/643.rb) |Easy|
