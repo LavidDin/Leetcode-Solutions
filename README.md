@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Ruby](./solutions/ruby/1047.rb) |Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)| [Ruby](./solutions/ruby/1662.rb) |Easy|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./solutions/shell/195.sh) |Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)| [Ruby](./solutions/ruby/1688.rb) |Easy|
