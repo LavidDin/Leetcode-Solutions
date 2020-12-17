@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)| [Ruby](./solutions/ruby/1385.rb) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Ruby](./solutions/ruby/1047.rb) |Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)| [Ruby](./solutions/ruby/1662.rb) |Easy|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./solutions/shell/195.sh) |Easy|
