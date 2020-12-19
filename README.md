@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [Ruby](./solutions/ruby/38.rb) |Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Ruby](./solutions/ruby/14.rb) |Easy|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)| [Ruby](./solutions/ruby/1385.rb) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Ruby](./solutions/ruby/1047.rb) |Easy|
