@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)| [Ruby](./solutions/ruby/860.rb) |Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Ruby](./solutions/ruby/119.rb) |Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Ruby](./solutions/ruby/118.rb) |Easy|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)| [Ruby](./solutions/ruby/1175.rb) |Easy|
