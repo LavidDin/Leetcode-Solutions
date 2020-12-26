@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)| [Ruby](./solutions/ruby/888.rb) |Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Ruby](./solutions/ruby/171.rb) |Easy|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Ruby](./solutions/ruby/999.rb) |Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)| [Ruby](./solutions/ruby/860.rb) |Easy|
