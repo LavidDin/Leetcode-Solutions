@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)| [Ruby](./solutions/ruby/292.rb) |Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Ruby](./solutions/ruby/122.rb) |Easy|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)| [Ruby](./solutions/ruby/888.rb) |Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Ruby](./solutions/ruby/171.rb) |Easy|
