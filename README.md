@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Ruby](./solutions/ruby/389.rb) |Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| [Ruby](./solutions/ruby/1160.rb) |Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)| [Ruby](./solutions/ruby/292.rb) |Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Ruby](./solutions/ruby/122.rb) |Easy|
