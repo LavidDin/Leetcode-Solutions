@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)| [Ruby](./solutions/ruby/893.rb) |Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)| [Ruby](./solutions/ruby/908.rb) |Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Ruby](./solutions/ruby/389.rb) |Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| [Ruby](./solutions/ruby/1160.rb) |Easy|
