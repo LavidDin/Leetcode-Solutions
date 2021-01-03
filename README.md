@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Ruby](./solutions/ruby/561.rb) |Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Ruby](./solutions/ruby/1122.rb) |Easy|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)| [Ruby](./solutions/ruby/893.rb) |Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)| [Ruby](./solutions/ruby/908.rb) |Easy|
