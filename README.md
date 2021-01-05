@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| [Ruby](./solutions/ruby/1700.rb) |Easy|
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Ruby](./solutions/ruby/1710.rb) |Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Ruby](./solutions/ruby/561.rb) |Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Ruby](./solutions/ruby/1122.rb) |Easy|
