@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1496|[Path Crossing](https://leetcode.com/problems/path-crossing/)| [Ruby](./solutions/ruby/1496.rb) |Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Ruby](./solutions/ruby/387.rb) |Easy|
 |1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/)| [Ruby](./solutions/ruby/1417.rb) |Easy|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)| [Ruby](./solutions/ruby/1704.rb) |Easy|
