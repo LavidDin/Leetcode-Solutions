@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)| [Ruby](./solutions/ruby/1652.rb) |Easy|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [Ruby](./solutions/ruby/1523.rb) |Easy|
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/)| [Ruby](./solutions/ruby/1496.rb) |Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Ruby](./solutions/ruby/387.rb) |Easy|
