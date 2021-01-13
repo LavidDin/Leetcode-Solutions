@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./solutions/ruby/242.rb) |Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [Ruby](./solutions/ruby/896.rb) |Easy|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)| [Ruby](./solutions/ruby/1652.rb) |Easy|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [Ruby](./solutions/ruby/1523.rb) |Easy|
