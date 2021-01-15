@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Ruby](./solutions/ruby/383.rb) |Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Ruby](./solutions/ruby/191.rb) |Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./solutions/ruby/242.rb) |Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [Ruby](./solutions/ruby/896.rb) |Easy|
