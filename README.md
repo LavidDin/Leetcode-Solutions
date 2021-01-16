@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Ruby](./solutions/ruby/268.rb) |Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Ruby](./solutions/ruby/383.rb) |Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Ruby](./solutions/ruby/191.rb) |Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./solutions/ruby/242.rb) |Easy|
