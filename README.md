@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)| [Ruby](./solutions/ruby/1154.rb) |Easy|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)| [Ruby](./solutions/ruby/1332.rb) |Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Ruby](./solutions/ruby/268.rb) |Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Ruby](./solutions/ruby/383.rb) |Easy|
