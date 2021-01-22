@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [Ruby](./solutions/ruby/263.rb) |Easy|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Ruby](./solutions/ruby/989.rb) |Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)| [Ruby](./solutions/ruby/1154.rb) |Easy|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)| [Ruby](./solutions/ruby/1332.rb) |Easy|
