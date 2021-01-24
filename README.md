@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Ruby](./solutions/ruby/374.rb) |Easy|
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)| [Ruby](./solutions/ruby/1544.rb) |Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [Ruby](./solutions/ruby/263.rb) |Easy|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Ruby](./solutions/ruby/989.rb) |Easy|
