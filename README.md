@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Ruby](./solutions/ruby/414.rb) |Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Ruby](./solutions/ruby/35.rb) |Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Ruby](./solutions/ruby/374.rb) |Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Ruby](./solutions/ruby/374.rb) |Easy|
