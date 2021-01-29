@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [Ruby](./solutions/ruby/342.rb) |Easy|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)| [Ruby](./solutions/ruby/1037.rb) |Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Ruby](./solutions/ruby/414.rb) |Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Ruby](./solutions/ruby/35.rb) |Easy|
