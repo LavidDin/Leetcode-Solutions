@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|504|[Base 7](https://leetcode.com/problems/base-7/)| [Ruby](./solutions/ruby/504.rb) |Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [Ruby](./solutions/ruby/342.rb) |Easy|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)| [Ruby](./solutions/ruby/1037.rb) |Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Ruby](./solutions/ruby/414.rb) |Easy|
