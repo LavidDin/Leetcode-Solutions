@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)| [Ruby](./solutions/ruby/1360.rb) |Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Ruby](./solutions/ruby/67.rb) |Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/)| [Ruby](./solutions/ruby/504.rb) |Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [Ruby](./solutions/ruby/342.rb) |Easy|
