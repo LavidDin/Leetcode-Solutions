@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Ruby](./solutions/ruby/724.rb) |Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)| [Ruby](./solutions/ruby/1232.rb) |Easy|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| [Ruby](./solutions/ruby/836.rb) |Easy|
 |1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)| [Ruby](./solutions/ruby/1360.rb) |Easy|
