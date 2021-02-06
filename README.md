@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1592|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)| [Ruby](.solutions/ruby/1592.rb) |Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [Ruby](./solutions/ruby/551.rb) |Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Ruby](./solutions/ruby/724.rb) |Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)| [Ruby](./solutions/ruby/1232.rb) |Easy|
