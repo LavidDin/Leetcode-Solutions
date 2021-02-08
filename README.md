@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)| [Ruby](./solutions/ruby/415.rb) |Easy|
 |402|[Binary Watch](https://leetcode.com/problems/binary-watch/)| [Ruby](./solutions/ruby/401.rb) |Easy|
 |1592|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)| [Ruby](.solutions/ruby/1592.rb) |Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [Ruby](./solutions/ruby/551.rb) |Easy|
