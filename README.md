@@ -5,12 +5,12 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)| [Ruby](./solutions/ruby/1184.rb) |Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)| [Ruby](./solutions/ruby/415.rb) |Easy|
 |402|[Binary Watch](https://leetcode.com/problems/binary-watch/)| [Ruby](./solutions/ruby/401.rb) |Easy|
 |1592|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)| [Ruby](.solutions/ruby/1592.rb) |Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [Ruby](./solutions/ruby/551.rb) |Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Ruby](./solutions/ruby/724.rb) |Easy|
-|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)| [Ruby](./solutions/ruby/1232.rb) |Easy|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| [Ruby](./solutions/ruby/836.rb) |Easy|
 |1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)| [Ruby](./solutions/ruby/1360.rb) |Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Ruby](./solutions/ruby/67.rb) |Easy|
