@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)| [Ruby](./solutions/ruby/506.rb) |Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Ruby](./solutions/ruby/53.rb) |Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)| [Ruby](./solutions/ruby/541.rb) |Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)| [Ruby](./solutions/ruby/455.rb) |Easy|
