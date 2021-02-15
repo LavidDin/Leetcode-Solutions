@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Ruby](./solutions/ruby/404.rb) |Easy|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)| [Ruby](./solutions/ruby/506.rb) |Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Ruby](./solutions/ruby/53.rb) |Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)| [Ruby](./solutions/ruby/541.rb) |Easy|
