@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)| [Ruby](./solutions/ruby/1732.rb) |Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)| [Ruby](./solutions/ruby/674.rb) |Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Ruby](./solutions/ruby/404.rb) |Easy|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)| [Ruby](./solutions/ruby/506.rb) |Easy|
