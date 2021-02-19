@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)| [Ruby](./solutions/ruby/1748.rb) |Easy|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)| [Ruby](./solutions/ruby/1422.rb) |Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)| [Ruby](./solutions/ruby/1732.rb) |Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)| [Ruby](./solutions/ruby/674.rb) |Easy|
