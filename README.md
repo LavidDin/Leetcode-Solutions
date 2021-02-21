@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)| [Ruby](./solutions/ruby/1720.rb) |Easy|
 |1728|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)| [Ruby](./solutions/ruby/1725.rb) |Easy|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)| [Ruby](./solutions/ruby/1748.rb) |Easy|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)| [Ruby](./solutions/ruby/1422.rb) |Easy|
