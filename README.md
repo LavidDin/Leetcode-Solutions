@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)| [Ruby](./solutions/ruby/1694.rb) |Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Ruby](./solutions/ruby/463.rb) |Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| [Ruby](./solutions/ruby/867.rb) |Easy|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)| [Ruby](./solutions/ruby/1716.rb) |Easy|
