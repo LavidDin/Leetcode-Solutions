@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)| [Ruby](./solutions/ruby/459.rb) |Easy|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)| [Ruby](./solutions/ruby/1694.rb) |Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Ruby](./solutions/ruby/463.rb) |Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| [Ruby](./solutions/ruby/867.rb) |Easy|
