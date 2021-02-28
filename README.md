@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [Ruby](./solutions/ruby/1636.rb) |Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [Ruby](./solutions/ruby/566.rb) |Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)| [Ruby](./solutions/ruby/459.rb) |Easy|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)| [Ruby](./solutions/ruby/1694.rb) |Easy|
