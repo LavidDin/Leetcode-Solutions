@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)| [Ruby](./solutions/ruby/1331.rb) |Easy|
 |1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [Ruby](./solutions/ruby/1636.rb) |Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [Ruby](./solutions/ruby/566.rb) |Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)| [Ruby](./solutions/ruby/459.rb) |Easy|
