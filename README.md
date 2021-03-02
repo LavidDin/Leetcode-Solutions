@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1560|[Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)| [Ruby](./solutions/ruby/1560.rb) |Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)| [Ruby](./solutions/ruby/1331.rb) |Easy|
 |1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [Ruby](./solutions/ruby/1636.rb) |Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [Ruby](./solutions/ruby/566.rb) |Easy|
