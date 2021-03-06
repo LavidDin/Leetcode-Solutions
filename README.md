@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Ruby](./solutions/ruby/1773.rb) |Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Ruby](./solutions/ruby/976.rb) |Easy|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Ruby](./solutions/ruby/985.rb) |Easy|
 |1560|[Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)| [Ruby](./solutions/ruby/1560.rb) |Easy|
