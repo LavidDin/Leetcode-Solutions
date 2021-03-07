@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Ruby](./solutions/ruby/605.rb) |Easy|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Ruby](./solutions/ruby/1773.rb) |Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Ruby](./solutions/ruby/976.rb) |Easy|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Ruby](./solutions/ruby/985.rb) |Easy|
