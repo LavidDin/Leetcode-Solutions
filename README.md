@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|507|[Perfect Number](https://leetcode.com/problems/perfect-number/)| [Ruby](./solutions/ruby/605.rb) |Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number/)| [Ruby](./solutions/ruby/507.rb) |Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Ruby](./solutions/ruby/605.rb) |Easy|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Ruby](./solutions/ruby/1773.rb) |Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Ruby](./solutions/ruby/976.rb) |Easy|
