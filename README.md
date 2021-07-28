@@ -5,6 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)| [Ruby](./solutions/ruby/1854.rb) |Easy|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [Ruby](./solutions/ruby/451.rb) |Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)| [Ruby](./solutions/ruby/925.rb) |Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)| [Ruby](./solutions/ruby/680.rb) |Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)| [Ruby](./solutions/ruby/507.rb) |Easy|
