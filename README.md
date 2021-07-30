@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Ruby](./solutions/ruby/20.rb) |Easy|
 |1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)| [Ruby](./solutions/ruby/1854.rb) |Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [Ruby](./solutions/ruby/451.rb) |Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)| [Ruby](./solutions/ruby/925.rb) |Easy|
