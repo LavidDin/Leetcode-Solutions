@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Ruby](./solutions/ruby/213.rb) |Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Ruby](./solutions/ruby/28.rb) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Ruby](./solutions/ruby/20.rb) |Easy|
 |1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)| [Ruby](./solutions/ruby/1854.rb) |Easy|
