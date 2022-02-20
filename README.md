@@ -7,6 +7,91 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Ruby](./solutions/ruby/435.rb) |Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Ruby](./solutions/ruby/14.rb) |Medium|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Ruby](./solutions/ruby/213.rb) |Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Ruby](./solutions/ruby/28.rb) |Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Ruby](./solutions/ruby/20.rb) |Easy|
+|1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)| [Ruby](./solutions/ruby/1854.rb) |Easy|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [Ruby](./solutions/ruby/451.rb) |Easy|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)| [Ruby](./solutions/ruby/925.rb) |Easy|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)| [Ruby](./solutions/ruby/680.rb) |Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number/)| [Ruby](./solutions/ruby/507.rb) |Easy|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Ruby](./solutions/ruby/605.rb) |Easy|
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Ruby](./solutions/ruby/1773.rb) |Easy|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Ruby](./solutions/ruby/976.rb) |Easy|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Ruby](./solutions/ruby/985.rb) |Easy|
+|1560|[Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)| [Ruby](./solutions/ruby/1560.rb) |Easy|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)| [Ruby](./solutions/ruby/1331.rb) |Easy|
+|1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [Ruby](./solutions/ruby/1636.rb) |Easy|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [Ruby](./solutions/ruby/566.rb) |Easy|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)| [Ruby](./solutions/ruby/459.rb) |Easy|
+|1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)| [Ruby](./solutions/ruby/1694.rb) |Easy|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Ruby](./solutions/ruby/463.rb) |Easy|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| [Ruby](./solutions/ruby/867.rb) |Easy|
+|1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)| [Ruby](./solutions/ruby/1716.rb) |Easy|
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)| [Ruby](./solutions/ruby/1720.rb) |Easy|
+|1728|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)| [Ruby](./solutions/ruby/1725.rb) |Easy|
+|1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)| [Ruby](./solutions/ruby/1748.rb) |Easy|
+|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)| [Ruby](./solutions/ruby/1422.rb) |Easy|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)| [Ruby](./solutions/ruby/1732.rb) |Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)| [Ruby](./solutions/ruby/674.rb) |Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Ruby](./solutions/ruby/404.rb) |Easy|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)| [Ruby](./solutions/ruby/506.rb) |Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Ruby](./solutions/ruby/53.rb) |Easy|
+|541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)| [Ruby](./solutions/ruby/541.rb) |Easy|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)| [Ruby](./solutions/ruby/455.rb) |Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)| [Ruby](./solutions/ruby/326.rb) |Easy|
+|1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)| [Ruby](./solutions/ruby/1184.rb) |Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)| [Ruby](./solutions/ruby/415.rb) |Easy|
+|402|[Binary Watch](https://leetcode.com/problems/binary-watch/)| [Ruby](./solutions/ruby/401.rb) |Easy|
+|1592|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)| [Ruby](.solutions/ruby/1592.rb) |Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [Ruby](./solutions/ruby/551.rb) |Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Ruby](./solutions/ruby/724.rb) |Easy|
+|836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| [Ruby](./solutions/ruby/836.rb) |Easy|
+|1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)| [Ruby](./solutions/ruby/1360.rb) |Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Ruby](./solutions/ruby/67.rb) |Easy|
+|504|[Base 7](https://leetcode.com/problems/base-7/)| [Ruby](./solutions/ruby/504.rb) |Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [Ruby](./solutions/ruby/342.rb) |Easy|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)| [Ruby](./solutions/ruby/1037.rb) |Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Ruby](./solutions/ruby/414.rb) |Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Ruby](./solutions/ruby/35.rb) |Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Ruby](./solutions/ruby/374.rb) |Easy|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Ruby](./solutions/ruby/374.rb) |Easy|
+|1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)| [Ruby](./solutions/ruby/1544.rb) |Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [Ruby](./solutions/ruby/263.rb) |Easy|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Ruby](./solutions/ruby/989.rb) |Easy|
+|1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)| [Ruby](./solutions/ruby/1154.rb) |Easy|
+|1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)| [Ruby](./solutions/ruby/1332.rb) |Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Ruby](./solutions/ruby/268.rb) |Easy|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Ruby](./solutions/ruby/383.rb) |Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Ruby](./solutions/ruby/191.rb) |Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./solutions/ruby/242.rb) |Easy|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [Ruby](./solutions/ruby/896.rb) |Easy|
+|1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)| [Ruby](./solutions/ruby/1652.rb) |Easy|
+|1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [Ruby](./solutions/ruby/1523.rb) |Easy|
+|1496|[Path Crossing](https://leetcode.com/problems/path-crossing/)| [Ruby](./solutions/ruby/1496.rb) |Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Ruby](./solutions/ruby/387.rb) |Easy|
+|1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/)| [Ruby](./solutions/ruby/1417.rb) |Easy|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)| [Ruby](./solutions/ruby/1704.rb) |Easy|
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| [Ruby](./solutions/ruby/1700.rb) |Easy|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Ruby](./solutions/ruby/1710.rb) |Easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Ruby](./solutions/ruby/561.rb) |Easy|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Ruby](./solutions/ruby/1122.rb) |Easy|
+|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)| [Ruby](./solutions/ruby/893.rb) |Easy|
+|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)| [Ruby](./solutions/ruby/908.rb) |Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Ruby](./solutions/ruby/389.rb) |Easy|
+|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| [Ruby](./solutions/ruby/1160.rb) |Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)| [Ruby](./solutions/ruby/292.rb) |Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Ruby](./solutions/ruby/122.rb) |Easy|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)| [Ruby](./solutions/ruby/888.rb) |Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Ruby](./solutions/ruby/171.rb) |Easy|
+|999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Ruby](./solutions/ruby/999.rb) |Easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)| [Ruby](./solutions/ruby/860.rb) |Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Ruby](./solutions/ruby/119.rb) |Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Ruby](./solutions/ruby/118.rb) |Easy|
+|1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)| [Ruby](./solutions/ruby/1175.rb) |Easy|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)| [Ruby](./solutions/ruby/944.rb) |Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [Ruby](./solutions/ruby/38.rb) |Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Ruby](./solutions/ruby/14.rb) |Easy|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)| [Ruby](./solutions/ruby/1385.rb) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Ruby](./solutions/ruby/1047.rb) |Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)| [Ruby](./solutions/ruby/1662.rb) |Easy|
