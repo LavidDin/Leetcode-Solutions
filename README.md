@@ -6,8 +6,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Ruby](./solutions/ruby/435.rb) |Medium|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Ruby](./solutions/ruby/14.rb) |Medium|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Ruby](./solutions/ruby/213.rb) |Easy|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Ruby](./solutions/ruby/213.rb) |Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Ruby](./solutions/ruby/28.rb) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Ruby](./solutions/ruby/20.rb) |Easy|
 |1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)| [Ruby](./solutions/ruby/1854.rb) |Easy|
